@@ -1,0 +1,1 @@
+vfs.smb1 https://github.com/afedchin/vfs.smb1 master
